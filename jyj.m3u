@@ -1,207 +1,463 @@
-HBOHD,http://198.16.106.62:8278/sundance_twn/playlist.m3u8?tid=mfe0bf4686c6d&ct=18335&tsum=14c57b1bfb62b277d396eb3cf14f26c6
-HBOHD,p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts#p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts#p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
-CCTV6,p2p://fccsovh.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef#http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8#http://107.148.240.185:13164/v/cctv.php?id=2000203303.m3u8#p2p://fccseuro.pvbox.live:18912/5b1409dc00006f93bbda61902a5daaef
-好莱坞电影台,p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5c7249e2000125281d5820ff23a165d1#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df53f7ba0012d829cba#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
-CCTV5,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5hd
-CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV5+,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
-CCTV5,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-CCTV5,http://183.207.255.190/live/program/live/cctv5hd/4000000/mnf.m3u8
-CCTV5,rtmp://58.200.131.2:1935/livetv/cctv5hd
-CCTV5+,rtmp://58.200.131.2:1935/livetv/cctv5phd
-CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV5+,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV5+,http://183.207.255.190/live/program/live/cctv5phd/4000000/mnf.m3u8
-CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
-博斯运动一台,p2p://fccsovh.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000dc923a72b7479e3f2d849.ts
-博斯魅力网,rtmp://59.124.75.130/sat/md042
-爱尔达体育,p2p://fccsovh.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts#p2p://fccseuro.pvbox.live:18912/5b140917000aaf8fc294bf05ce9744a5.ts
-爱尔达体育2,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-爱尔达体育2,rtmp://59.124.75.130/sat/md011
-愛爾達體育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-纬来体育台,p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
-纬来体育台,http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8#p2p://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#p2p://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#p2p://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#p2p://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
-纬来体育台,rtmp://59.124.75.130/sat/tv721
-纬来体育台,rtmp://59.124.75.130:1935/sat/tv721
-FOXSports,http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-FOXSports2,http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-FOXSports3,http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-FOXSports3,https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-FOXSports3,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-ASTRO SPORT 1,http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-FOX体育,p2p://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#p2p://fccseuro.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
-FOXSports,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts
-FOXSports2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
-WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
-NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
-超级体育ᴴᴰ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-体育赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226803/index.m3u8
-精彩体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-体育1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-体育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-体育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-体育4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-体育5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-体育6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-超级体育1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-超级体育2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-超级体育3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-Channel V,https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-Channel V,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-Channel V,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-MTV,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
-MTVWMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-MTVSpankinNew,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTVBiggestPop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-淘电影[高清],http://39.134.134.85:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
-周星驰,http://auney.gearhostpreview.com/huya.php?id=11342412
-林正英,http://auney.gearhostpreview.com/huya.php?id=11342421
-成龙,http://auney.gearhostpreview.com/huya.php?id=11342386
-李连杰,http://auney.gearhostpreview.com/huya.php?id=11342390
-赌片,http://auney.gearhostpreview.com/huya.php?id=11342399
-黑帮,http://auney.gearhostpreview.com/huya.php?id=11336719
-吴京,http://auney.gearhostpreview.com/huya.php?id=11602045
-科幻动作,http://auney.gearhostpreview.com/huya.php?id=11352964
-国产喜剧,http://auney.gearhostpreview.com/huya.php?id=11602044
-丧尸,http://auney.gearhostpreview.com/huya.php?id=11352962
-五福星,http://auney.gearhostpreview.com/huya.php?id=11282233
-甄子丹,http://auney.gearhostpreview.com/huya.php?id=11352935
-卧底警匪,http://auney.gearhostpreview.com/huya.php?id=11352886
-周润发,http://auney.gearhostpreview.com/huya.php?id=11342387
-变形金刚,http://auney.gearhostpreview.com/huya.php?id=11342433
-沈腾,http://auney.gearhostpreview.com/huya.php?id=11601968
-盗墓系列,http://auney.gearhostpreview.com/huya.php?id=11352913
-洪金宝,http://auney.gearhostpreview.com/huya.php?id=11342427
-灾难电影,http://auney.gearhostpreview.com/huya.php?id=11352871
-终结者电影,http://auney.gearhostpreview.com/huya.php?id=11352979
-徐峥,http://auney.gearhostpreview.com/huya.php?id=11602043
-漫威,http://auney.gearhostpreview.com/huya.php?id=11602075
-刘德华,http://auney.gearhostpreview.com/huya.php?id=11342424
-韩国犯罪动作,http://auney.gearhostpreview.com/huya.php?id=11601956
-速度与激情,http://auney.gearhostpreview.com/huya.php?id=11352949
-香港恐怖,http://auney.gearhostpreview.com/huya.php?id=11601960
-异性怪物,http://auney.gearhostpreview.com/huya.php?id=11352938
-历年贺岁档,http://auney.gearhostpreview.com/huya.php?id=11601986
-杰森斯坦森,http://auney.gearhostpreview.com/huya.php?id=11336572
-港产搞笑,http://auney.gearhostpreview.com/huya.php?id=11342423
-复仇者联盟,http://auney.gearhostpreview.com/huya.php?id=11602041
-惊悚,http://auney.gearhostpreview.com/huya.php?id=11342432
-黑帮电影,http://auney.gearhostpreview.com/huya.php?id=11342419
-史诗战争,http://auney.gearhostpreview.com/huya.php?id=11342435
-丧尸2,http://auney.gearhostpreview.com/huya.php?id=11342422
-粤语港片,http://auney.gearhostpreview.com/huya.php?id=11352894
-钢铁侠,http://auney.gearhostpreview.com/huya.php?id=11602034
-机甲电影,http://auney.gearhostpreview.com/huya.php?id=11352876
-猎奇电影,http://auney.gearhostpreview.com/huya.php?id=11601970
-韩国电影,http://auney.gearhostpreview.com/huya.php?id=11352880
-欧美特工,http://auney.gearhostpreview.com/huya.php?id=11602069
-加勒比海盗,http://auney.gearhostpreview.com/huya.php?id=11602046
-指环王,http://auney.gearhostpreview.com/huya.php?id=11352916
-哈利波特,http://auney.gearhostpreview.com/huya.php?id=11352906
-电锯惊魂,http://auney.gearhostpreview.com/huya.php?id=11342437
-最佳拍档,http://auney.gearhostpreview.com/huya.php?id=11342397
-金庸电影,http://auney.gearhostpreview.com/huya.php?id=11352897
-热血高校,http://auney.gearhostpreview.com/huya.php?id=11342402
-许氏电影,http://auney.gearhostpreview.com/huya.php?id=11602033
-第一滴血,http://auney.gearhostpreview.com/huya.php?id=11352934
-小丑电影,http://auney.gearhostpreview.com/huya.php?id=11352941
-外国电影,http://auney.gearhostpreview.com/huya.php?id=11342428
-游戏改编电影,http://auney.gearhostpreview.com/huya.php?id=10871113
-奥斯卡提名,http://auney.gearhostpreview.com/huya.php?id=11352969
-黑夜传说,http://auney.gearhostpreview.com/huya.php?id=11352881
-开心鬼,http://auney.gearhostpreview.com/huya.php?id=11342388
-香港霸王花,http://auney.gearhostpreview.com/huya.php?id=11352909
-爱情公寓,http://auney.gearhostpreview.com/huya.php?id=11336726
-武林外传,http://auney.gearhostpreview.com/huya.php?id=11352915
-插翅难逃,http://auney.gearhostpreview.com/huya.php?id=11352940
-神探狄仁杰,http://auney.gearhostpreview.com/huya.php?id=11352958
-家有儿女,http://auney.gearhostpreview.com/huya.php?id=11352872
-少年包青天,http://auney.gearhostpreview.com/huya.php?id=11342393
-好先生,http://auney.gearhostpreview.com/huya.php?id=11352973
-火蓝刀锋,http://auney.gearhostpreview.com/huya.php?id=11336592
-知否知否,http://auney.gearhostpreview.com/huya.php?id=11602068
-士兵突击,http://auney.gearhostpreview.com/huya.php?id=11342430
-搞笑一家人,http://auney.gearhostpreview.com/huya.php?id=11601978
-少帅,http://auney.gearhostpreview.com/huya.php?id=11342414
-生活大爆炸,http://auney.gearhostpreview.com/huya.php?id=11352959
-卫国无敌,http://auney.gearhostpreview.com/huya.php?id=11336578
-大宅门,http://auney.gearhostpreview.com/huya.php?id=11601982
-鹿鼎记陈小春,http://auney.gearhostpreview.com/huya.php?id=11352910
-炊事班的故事,http://auney.gearhostpreview.com/huya.php?id=11352895
-齐天大圣孙悟空,http://auney.gearhostpreview.com/huya.php?id=11342395
-正阳门下,http://auney.gearhostpreview.com/huya.php?id=11352965
-命案十三宗,http://auney.gearhostpreview.com/huya.php?id=11601981
-永不磨灭的番号,http://auney.gearhostpreview.com/huya.php?id=11352875
-倚天屠龙记,http://auney.gearhostpreview.com/huya.php?id=11342403
-我和僵尸有个约会,http://auney.gearhostpreview.com/huya.php?id=11352948
-三生三世,http://auney.gearhostpreview.com/huya.php?id=11602085
-龙门镖局,http://auney.gearhostpreview.com/huya.php?id=11352874
-老九门,http://auney.gearhostpreview.com/huya.php?id=11352887
-潜伏,http://auney.gearhostpreview.com/huya.php?id=11601958
-屌丝男士,http://auney.gearhostpreview.com/huya.php?id=11342420
-西游记,http://auney.gearhostpreview.com/huya.php?id=11602031
-民兵葛二蛋,http://auney.gearhostpreview.com/huya.php?id=11602072
-大染坊,http://auney.gearhostpreview.com/huya.php?id=11352905
-芈月传,http://auney.gearhostpreview.com/huya.php?id=11352918
-伪装者,http://auney.gearhostpreview.com/huya.php?id=11602086
-我的兄弟叫顺溜,http://auney.gearhostpreview.com/huya.php?id=11601957
-还珠格格,http://auney.gearhostpreview.com/huya.php?id=11342415
-天龙八部胡军,http://auney.gearhostpreview.com/huya.php?id=11602036
-新倚天屠龙记,http://auney.gearhostpreview.com/huya.php?id=11602067
-韩剧剧场,http://auney.gearhostpreview.com/huya.php?id=11352904
-欢乐颂,http://auney.gearhostpreview.com/huya.php?id=11601979
-法证先锋,http://auney.gearhostpreview.com/huya.php?id=11342398
-神话,http://auney.gearhostpreview.com/huya.php?id=11602074
-医馆笑传,http://auney.gearhostpreview.com/huya.php?id=11352891
-情满四合院,http://auney.gearhostpreview.com/huya.php?id=11342426
-父母爱情,http://auney.gearhostpreview.com/huya.php?id=11352920
-毛骗,http://auney.gearhostpreview.com/huya.php?id=11352912
-都挺好,http://auney.gearhostpreview.com/huya.php?id=11602084
-老友记,http://auney.gearhostpreview.com/huya.php?id=11352945
-香蜜沉沉,http://auney.gearhostpreview.com/huya.php?id=11352892
-我的团长我的团,http://auney.gearhostpreview.com/huya.php?id=11342416
-大宋提刑官,http://auney.gearhostpreview.com/huya.php?id=11279251
-爱死亡机器人,http://auney.gearhostpreview.com/huya.php?id=11601964
-魔幻手机,http://auney.gearhostpreview.com/huya.php?id=11602065
-行尸走肉,http://auney.gearhostpreview.com/huya.php?id=11352963
-旋风十一人,http://auney.gearhostpreview.com/huya.php?id=11342400
-猪八戒系列,http://auney.gearhostpreview.com/huya.php?id=11352877
-犬夜叉,http://auney.gearhostpreview.com/huya.php?id=11352893
-王子变青蛙,http://auney.gearhostpreview.com/huya.php?id=11352960
-我的前半生,http://auney.gearhostpreview.com/huya.php?id=11601971
-新神雕侠侣古天乐,http://auney.gearhostpreview.com/huya.php?id=11352878
-我们结婚吧,http://auney.gearhostpreview.com/huya.php?id=11342394
-极品家丁,http://auney.gearhostpreview.com/huya.php?id=11352884
-血色浪漫,http://auney.gearhostpreview.com/huya.php?id=11602055
-花千骨,http://auney.gearhostpreview.com/huya.php?id=11602058
-聊斋志异,http://auney.gearhostpreview.com/huya.php?id=11602054
-高分韩剧,http://auney.gearhostpreview.com/huya.php?id=11352903
-射雕英雄传朱茵,http://auney.gearhostpreview.com/huya.php?id=11342438
-欢喜密探,http://auney.gearhostpreview.com/huya.php?id=11336590
-黑洞,http://auney.gearhostpreview.com/huya.php?id=11602088
-韩剧探案,http://auney.gearhostpreview.com/huya.php?id=11336725
-我非英雄,http://auney.gearhostpreview.com/huya.php?id=19524135
-勇敢的心,http://auney.gearhostpreview.com/huya.php?id=11602037
-极限男人帮,http://auney.gearhostpreview.com/huya.php?id=11352914
-奔跑吧兄弟,http://auney.gearhostpreview.com/huya.php?id=11601972
-向往的生活,http://auney.gearhostpreview.com/huya.php?id=11342436
-Running Man,http://auney.gearhostpreview.com/huya.php?id=11352883
-明星大侦探,http://auney.gearhostpreview.com/huya.php?id=11336579
-相声小品,http://auney.gearhostpreview.com/huya.php?id=11336593
-王牌对王牌,http://auney.gearhostpreview.com/huya.php?id=11601961
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,CCTV1综合高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807420
+#EXTINF:-1 ,CCTV2财经高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=631780532
+#EXTINF:-1 ,CCTV4中文国际高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=631780421
+#EXTINF:-1 ,CCTV10科教高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=624878405
+#EXTINF:-1 ,CCTV14少儿高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=624878440
+#EXTINF:-1 ,CCTV1综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807427
+#EXTINF:-1 ,CCTV2财经
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=635492309
+#EXTINF:-1 ,CCTV3综艺
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609017193
+#EXTINF:-1 ,CCTV4中文国际
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807424
+#EXTINF:-1 ,CCTV-5体育
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=641886657
+#EXTINF:-1 ,CCTV5+体育赛事
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=641886733
+#EXTINF:-1 ,CCTV6电影
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608919883
+#EXTINF:-1 ,CCTV8电视剧
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609154254
+#EXTINF:-1 ,CCTV9纪录
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608920109
+#EXTINF:-1 ,CCTV9Documentary
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609006487
+#EXTINF:-1 ,CCTV10科教
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608880731
+#EXTINF:-1 ,CCTV11戏曲
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609017121
+#EXTINF:-1 ,CCTV12社会与法
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609017191
+#EXTINF:-1 ,CCTV14少儿
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609017204
+#EXTINF:-1 ,CCTV15音乐
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807408
+#EXTINF:-1 ,CCTV法语
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609006476
+#EXTINF:-1 ,CCTV西班牙语
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609006450
+#EXTINF:-1 ,CCTV俄语
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609006446
+#EXTINF:-1 ,北京卫视高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630287636
+#EXTINF:-1 ,安徽卫视高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=644933992
+#EXTINF:-1 ,四川卫视高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630288361
+#EXTINF:-1 ,江苏卫视高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=623899368
+#EXTINF:-1 ,江苏卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=623899540
+#EXTINF:-1 ,东方卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651625930
+#EXTINF:-1 ,北京卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630287661
+#EXTINF:-1 ,安徽卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630971260
+#EXTINF:-1 ,广东卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608831538
+#EXTINF:-1 ,山东教育
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609154353
+#EXTINF:-1 ,广西卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=634055160
+#EXTINF:-1 ,河南卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=635489820
+#EXTINF:-1 ,黑龙江卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630288601
+#EXTINF:-1 ,东南卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651642156
+#EXTINF:-1 ,天津卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=631094458
+#EXTINF:-1 ,甘肃卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630287549
+#EXTINF:-1 ,西藏卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630291593
+#EXTINF:-1 ,兵团卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630288004
+#EXTINF:-1 ,旅游卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=633215355
+#EXTINF:-1 ,重庆卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630288006
+#EXTINF:-1 ,江西卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630290852
+#EXTINF:-1 ,河北卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630292528
+#EXTINF:-1 ,吉林卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630288397
+#EXTINF:-1 ,辽宁卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=623583504
+#EXTINF:-1 ,山西卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630289043
+#EXTINF:-1 ,厦门卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630285654
+#EXTINF:-1 ,云南卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630291417
+#EXTINF:-1 ,内蒙古卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630287015
+#EXTINF:-1 ,宁夏卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630287436
+#EXTINF:-1 ,新疆卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=635385783
+#EXTINF:-1 ,青海卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630287272
+#EXTINF:-1 ,陕西卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630287233
+#EXTINF:-1 ,湖北卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630288760
+#EXTINF:-1 ,贵州卫视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=631094827
+#EXTINF:-1 ,CETV1
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=649531772
+#EXTINF:-1 ,CETV2
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=649532169
+#EXTINF:-1 ,CETV3
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=649531756
+#EXTINF:-1 ,CETV4
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=649531725
+#EXTINF:-1 ,CETV1高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=649531734
+#EXTINF:-1 ,黄金剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625155140
+#EXTINF:-1 ,军旅剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625643517
+#EXTINF:-1 ,精品国产剧
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625574378
+#EXTINF:-1 ,乡村爱情剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625774662
+#EXTINF:-1 ,激情夜场影院
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625188208
+#EXTINF:-1 ,红色谍战剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=634274665
+#EXTINF:-1 ,每日科幻电影
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625204865
+#EXTINF:-1 ,周星驰影院
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=623338112
+#EXTINF:-1 ,追剧少女
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=617432318
+#EXTINF:-1 ,怀旧老片
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=621640582
+#EXTINF:-1 ,武侠剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=627198822
+#EXTINF:-1 ,动漫剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=627198751
+#EXTINF:-1 ,假期剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=627198692
+#EXTINF:-1 ,经典频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625542369
+#EXTINF:-1 ,精品剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615810094
+#EXTINF:-1 ,四大名著剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625498432
+#EXTINF:-1 ,东方电影高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=623674834
+#EXTINF:-1 ,经典放映厅
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626157533
+#EXTINF:-1 ,射雕剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625681367
+#EXTINF:-1 ,立面包青天
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625521420
+#EXTINF:-1 ,金庸频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625774640
+#EXTINF:-1 ,小戏骨剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625526423
+#EXTINF:-1 ,华视火爆劲片
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=624999147
+#EXTINF:-1 ,笑傲江湖
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625759558
+#EXTINF:-1 ,鹿鼎记
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625681368
+#EXTINF:-1 ,刘涛作品集
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625514969
+#EXTINF:-1 ,天龙八部集
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625703337
+#EXTINF:-1 ,盗墓方法论
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625525181
+#EXTINF:-1 ,CCTV6电影
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608919883
+#EXTINF:-1 ,CCTV8
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609154254
+#EXTINF:-1 ,CIBN电影频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630518326
+#EXTINF:-1 ,CIBN喜剧影院
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609154087
+#EXTINF:-1 ,CIBN经典剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=621780899
+#EXTINF:-1 ,CCTV-5体育
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=641886657
+#EXTINF:-1 ,CCTV5+体育赛事
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=641886733
+#EXTINF:-1 ,BTV体育
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=641874369
+#EXTINF:-1 ,冰球中国直播赛事
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=622098642
+#EXTINF:-1 ,咪咕早教频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=617432495
+#EXTINF:-1 ,CCTV14少儿高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=624878440
+#EXTINF:-1 ,海底小纵队
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639528330
+#EXTINF:-1 ,男宝宝最爱
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639528180
+#EXTINF:-1 ,女宝宝最爱
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639528313
+#EXTINF:-1 ,优漫卡通频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626064703
+#EXTINF:-1 ,浙江少儿频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=611318244
+#EXTINF:-1 ,哈哈炫动
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651638619
+#EXTINF:-1 ,少儿动漫
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615809462
+#EXTINF:-1 ,CCTV1高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807420
+#EXTINF:-1 ,CCTV4中文国际
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807424
+#EXTINF:-1 ,CCTV13新闻
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608807423
+#EXTINF:-1 ,上海新闻综合高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651632657
+#EXTINF:-1 ,南京新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=629243982
+#EXTINF:-1 ,公共新闻频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626064693
+#EXTINF:-1 ,赤壁新闻综合频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=638811454
+#EXTINF:-1 ,CCTV9纪录
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608920109
+#EXTINF:-1 ,BBC独家
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=633138330
+#EXTINF:-1 ,上视纪实频道高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=617289997
+#EXTINF:-1 ,Discovery独家
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639528386
+#EXTINF:-1 ,Discovery王牌节目展播
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=637483721
+#EXTINF:-1 ,BBC地平线系列展播
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=637444830
+#EXTINF:-1 ,探索纪录
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615809560
+#EXTINF:-1 ,少儿动漫
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615809462
+#EXTINF:-1 ,高清娱乐
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615809851
+#EXTINF:-1 ,风尚音乐
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615809771
+#EXTINF:-1 ,快本台
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=625574493
+#EXTINF:-1 ,SNH48剧场公演
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=617432328
+#EXTINF:-1 ,综艺现场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=621640581
+#EXTINF:-1 ,上海都市频道HD
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651638801
+#EXTINF:-1 ,上海都市频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651642246
+#EXTINF:-1 ,上海新闻综合HD
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651632657
+#EXTINF:-1 ,上海电视剧HD
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=617290047
+#EXTINF:-1 ,上海新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651638663
+#EXTINF:-1 ,上海纪实
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=618954695
+#EXTINF:-1 ,上海外语
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=618954688
+#EXTINF:-1 ,哈哈炫动
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651638619
+#EXTINF:-1 ,上海艺术人文
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=651632875
+#EXTINF:-1 ,阿拉轧闹猛
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=627033504
+#EXTINF:-1 ,上海老辰光
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639528181
+#EXTINF:-1 ,浙江少儿频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=611318244
+#EXTINF:-1 ,杭州影视频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=611373913
+#EXTINF:-1 ,杭州综合频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=611354772
+#EXTINF:-1 ,南京新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=629243982
+#EXTINF:-1 ,南京十八频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=629243989
+#EXTINF:-1 ,苏州新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731952
+#EXTINF:-1 ,无锡新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639737327
+#EXTINF:-1 ,常州新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731892
+#EXTINF:-1 ,扬州新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731888
+#EXTINF:-1 ,泰州新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731818
+#EXTINF:-1 ,盐城新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731825
+#EXTINF:-1 ,淮安新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731826
+#EXTINF:-1 ,镇江新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731783
+#EXTINF:-1 ,徐州新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731747
+#EXTINF:-1 ,宿迁新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731832
+#EXTINF:-1 ,连云港新闻综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639731715
+#EXTINF:-1 ,江苏综艺频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626065193
+#EXTINF:-1 ,江苏城市频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626064714
+#EXTINF:-1 ,公共新闻频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626064693
+#EXTINF:-1 ,江苏影视频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626064697
+#EXTINF:-1 ,体育休闲频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626064707
+#EXTINF:-1 ,江苏学习频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626881786
+#EXTINF:-1 ,江苏靓妆频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626064675
+#EXTINF:-1 ,优漫卡通频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626064703
+#EXTINF:-1 ,汉中综合频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=650216404
+#EXTINF:-1 ,汉中公共频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=650217163
+#EXTINF:-1 ,孝感公共频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=638557579
+#EXTINF:-1 ,恩施新闻综合频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=638811570
+#EXTINF:-1 ,恩施公共频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=638811568
+#EXTINF:-1 ,长阳综合频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=640773533
+#EXTINF:-1 ,赤壁二套
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=638811534
+#EXTINF:-1 ,赤壁新闻综合频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=638811454
+#EXTINF:-1 ,山西少儿
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628472619
+#EXTINF:-1 ,山西公共
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628472786
+#EXTINF:-1 ,山西科教频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628472792
+#EXTINF:-1 ,山西影视频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628472887
+#EXTINF:-1 ,北海新闻综合频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=652487503
+#EXTINF:-1 ,北海经济科教频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=653712739
+#EXTINF:-1 ,甘肃品质生活频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630641529
+#EXTINF:-1 ,甘肃移动电视频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630641593
+#EXTINF:-1 ,甘肃公共频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630641625
+#EXTINF:-1 ,甘肃都市频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630641756
+#EXTINF:-1 ,天津宁河电视台综合新闻
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639176324
+#EXTINF:-1 ,贵阳电视台法制频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639176544
+#EXTINF:-1 ,贵阳电视台旅游生活频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=639177347
+#EXTINF:-1 ,山东教育
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609154353
+#EXTINF:-1 ,广东体育
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=624303497
+#EXTINF:-1 ,南京教科频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=629243936
+#EXTINF:-1 ,山西彩民在线
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628472211
+#EXTINF:-1 ,山西经济资讯频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628472942
+#EXTINF:-1 ,山西黄河电视台
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628473059
+#EXTINF:-1 ,漳县综合频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=637620045
+#EXTINF:-1 ,北海公共频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=653712657
+#EXTINF:-1 ,甘肃文化影视频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630641855
+#EXTINF:-1 ,中国黄河电视台
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628472544
+#EXTINF:-1 ,全明星现场
+http://yeyuaihao.gz01.bdysite.com/qw.php?hid=624094005
+#EXTINF:-1 ,小编力推
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626100497
+#EXTINF:-1 ,CIBN精品影院
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=616707234
+#EXTINF:-1 ,CIBN电影导视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=613882914
+#EXTINF:-1 ,CIBN喜剧影院
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609154087
+#EXTINF:-1 ,CIBN动漫频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=618338946
+#EXTINF:-1 ,CIBN华语影院
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=626980563
+#EXTINF:-1 ,CIBN综合
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=624185088
+#EXTINF:-1 ,CIBN院线大片
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=624185089
+#EXTINF:-1 ,CIBN电影频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=630518326
+#EXTINF:-1 ,CIBN动作影院
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=621635004
+#EXTINF:-1 ,CIBN好莱坞
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=621634965
+#EXTINF:-1 ,CIBN经典剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=621780899
+#EXTINF:-1 ,CIBN真人秀
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=621780947
+#EXTINF:-1 ,CIBN微电影
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=622331590
+#EXTINF:-1 ,CIBN财经
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=622324891
+#EXTINF:-1 ,CIBN旅游
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=622324976
+#EXTINF:-1 ,CIBN流金岁月
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=622324928
+#EXTINF:-1 ,CIBN文化中国
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=622324914
+#EXTINF:-1 ,CIBN热播剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=618338948
+#EXTINF:-1 ,CIBNTEA电竞频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=618338945
+#EXTINF:-1 ,新视讯直播
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628335133
+#EXTINF:-1 ,壹空间
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=628688149
+#EXTINF:-1 ,i综艺
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608793463
+#EXTINF:-1 ,游戏风云高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=623674815
+#EXTINF:-1 ,金鹰纪实频道
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=623604663
+#EXTINF:-1 ,我的音乐故事高清
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=609006734
+#EXTINF:-1 ,法治天地
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=631095330
+#EXTINF:-1 ,in乐台
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608796940
+#EXTINF:-1 ,点掌财经
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=638028966
+#EXTINF:-1 ,四海钓鱼
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=650999610
+#EXTINF:-1 ,高清影视
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=617432318
+#EXTINF:-1 ,精品剧场
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615810094
+#EXTINF:-1 ,少儿动漫
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615809462
+#EXTINF:-1 ,嘉佳卡通
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=614952364
+#EXTINF:-1 ,e娱乐
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=608796678
+#EXTINF:-1 ,风尚音乐
+http://yeyuaihao.gz01.bdysite.com/qw.php?id=615809771
